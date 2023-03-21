@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\AccountDetails\bin\Debug\net6.0\AccountDetails.exe
+D:\Documents\WORK\C#\AccountDetails\bin\Debug\net6.0\AccountDetails.deps.json
+D:\Documents\WORK\C#\AccountDetails\bin\Debug\net6.0\AccountDetails.runtimeconfig.json
+D:\Documents\WORK\C#\AccountDetails\bin\Debug\net6.0\AccountDetails.dll
+D:\Documents\WORK\C#\AccountDetails\bin\Debug\net6.0\AccountDetails.pdb
+D:\Documents\WORK\C#\AccountDetails\obj\Debug\net6.0\AccountDetails.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\AccountDetails\obj\Debug\net6.0\AccountDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\AccountDetails\obj\Debug\net6.0\AccountDetails.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\AccountDetails\obj\Debug\net6.0\AccountDetails.AssemblyInfo.cs
+D:\Documents\WORK\C#\AccountDetails\obj\Debug\net6.0\AccountDetails.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\AccountDetails\obj\Debug\net6.0\AccountDetails.dll
+D:\Documents\WORK\C#\AccountDetails\obj\Debug\net6.0\refint\AccountDetails.dll
+D:\Documents\WORK\C#\AccountDetails\obj\Debug\net6.0\AccountDetails.pdb
+D:\Documents\WORK\C#\AccountDetails\obj\Debug\net6.0\AccountDetails.genruntimeconfig.cache
+D:\Documents\WORK\C#\AccountDetails\obj\Debug\net6.0\ref\AccountDetails.dll
