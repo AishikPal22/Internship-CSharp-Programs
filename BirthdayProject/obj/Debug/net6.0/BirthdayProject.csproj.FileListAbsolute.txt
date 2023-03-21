@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\BirthdayProject\bin\Debug\net6.0\BirthdayProject.exe
+D:\Documents\WORK\C#\BirthdayProject\bin\Debug\net6.0\BirthdayProject.deps.json
+D:\Documents\WORK\C#\BirthdayProject\bin\Debug\net6.0\BirthdayProject.runtimeconfig.json
+D:\Documents\WORK\C#\BirthdayProject\bin\Debug\net6.0\BirthdayProject.dll
+D:\Documents\WORK\C#\BirthdayProject\bin\Debug\net6.0\BirthdayProject.pdb
+D:\Documents\WORK\C#\BirthdayProject\obj\Debug\net6.0\BirthdayProject.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\BirthdayProject\obj\Debug\net6.0\BirthdayProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\BirthdayProject\obj\Debug\net6.0\BirthdayProject.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\BirthdayProject\obj\Debug\net6.0\BirthdayProject.AssemblyInfo.cs
+D:\Documents\WORK\C#\BirthdayProject\obj\Debug\net6.0\BirthdayProject.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\BirthdayProject\obj\Debug\net6.0\BirthdayProject.dll
+D:\Documents\WORK\C#\BirthdayProject\obj\Debug\net6.0\refint\BirthdayProject.dll
+D:\Documents\WORK\C#\BirthdayProject\obj\Debug\net6.0\BirthdayProject.pdb
+D:\Documents\WORK\C#\BirthdayProject\obj\Debug\net6.0\BirthdayProject.genruntimeconfig.cache
+D:\Documents\WORK\C#\BirthdayProject\obj\Debug\net6.0\ref\BirthdayProject.dll
