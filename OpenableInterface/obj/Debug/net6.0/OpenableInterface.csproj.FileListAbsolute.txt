@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\OpenableInterface\bin\Debug\net6.0\OpenableInterface.exe
+D:\Documents\WORK\C#\OpenableInterface\bin\Debug\net6.0\OpenableInterface.deps.json
+D:\Documents\WORK\C#\OpenableInterface\bin\Debug\net6.0\OpenableInterface.runtimeconfig.json
+D:\Documents\WORK\C#\OpenableInterface\bin\Debug\net6.0\OpenableInterface.dll
+D:\Documents\WORK\C#\OpenableInterface\bin\Debug\net6.0\OpenableInterface.pdb
+D:\Documents\WORK\C#\OpenableInterface\obj\Debug\net6.0\OpenableInterface.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\OpenableInterface\obj\Debug\net6.0\OpenableInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\OpenableInterface\obj\Debug\net6.0\OpenableInterface.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\OpenableInterface\obj\Debug\net6.0\OpenableInterface.AssemblyInfo.cs
+D:\Documents\WORK\C#\OpenableInterface\obj\Debug\net6.0\OpenableInterface.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\OpenableInterface\obj\Debug\net6.0\OpenableInterface.dll
+D:\Documents\WORK\C#\OpenableInterface\obj\Debug\net6.0\refint\OpenableInterface.dll
+D:\Documents\WORK\C#\OpenableInterface\obj\Debug\net6.0\OpenableInterface.pdb
+D:\Documents\WORK\C#\OpenableInterface\obj\Debug\net6.0\OpenableInterface.genruntimeconfig.cache
+D:\Documents\WORK\C#\OpenableInterface\obj\Debug\net6.0\ref\OpenableInterface.dll
