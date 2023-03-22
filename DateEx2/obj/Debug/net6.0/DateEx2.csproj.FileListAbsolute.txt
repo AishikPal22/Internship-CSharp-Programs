@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\DateEx2\bin\Debug\net6.0\DateEx2.exe
+D:\Documents\WORK\C#\DateEx2\bin\Debug\net6.0\DateEx2.deps.json
+D:\Documents\WORK\C#\DateEx2\bin\Debug\net6.0\DateEx2.runtimeconfig.json
+D:\Documents\WORK\C#\DateEx2\bin\Debug\net6.0\DateEx2.dll
+D:\Documents\WORK\C#\DateEx2\bin\Debug\net6.0\DateEx2.pdb
+D:\Documents\WORK\C#\DateEx2\obj\Debug\net6.0\DateEx2.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\DateEx2\obj\Debug\net6.0\DateEx2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\DateEx2\obj\Debug\net6.0\DateEx2.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\DateEx2\obj\Debug\net6.0\DateEx2.AssemblyInfo.cs
+D:\Documents\WORK\C#\DateEx2\obj\Debug\net6.0\DateEx2.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\DateEx2\obj\Debug\net6.0\DateEx2.dll
+D:\Documents\WORK\C#\DateEx2\obj\Debug\net6.0\refint\DateEx2.dll
+D:\Documents\WORK\C#\DateEx2\obj\Debug\net6.0\DateEx2.pdb
+D:\Documents\WORK\C#\DateEx2\obj\Debug\net6.0\DateEx2.genruntimeconfig.cache
+D:\Documents\WORK\C#\DateEx2\obj\Debug\net6.0\ref\DateEx2.dll
