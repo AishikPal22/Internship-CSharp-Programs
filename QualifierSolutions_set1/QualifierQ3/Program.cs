@@ -85,11 +85,7 @@
             foreach(string item in details)
             {
                 string[] info = item.Split(',');
-                Appointment app = new Appointment();
-                app.PatientName = info[0];
-                app.Date = info[1];
-                app.Time = info[2];
-                app.Reason = info[3];
+                Appointment app = new Appointment(info[0], info[1], info[2], info[3]);
                 AppointmentList.Add(app);               
             }
             //Console.WriteLine("Details added!");
