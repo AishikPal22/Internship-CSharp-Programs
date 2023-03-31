@@ -13,4 +13,14 @@ namespace QualifierQ3
         public string Time { get; set; }
         public string Reason { get; set; }
     }
+    
+    public Appointment() { }
+    
+    public Appointment(string name, string date, string time, string reason)
+    {
+        PatientName = name; 
+        Date = date;
+        Time = time; 
+        Reason = reason;
+    }
 }
