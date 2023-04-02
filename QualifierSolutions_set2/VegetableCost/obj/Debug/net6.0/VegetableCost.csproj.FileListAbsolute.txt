@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\VegetableCost\bin\Debug\net6.0\VegetableCost.exe
+D:\Documents\WORK\C#\VegetableCost\bin\Debug\net6.0\VegetableCost.deps.json
+D:\Documents\WORK\C#\VegetableCost\bin\Debug\net6.0\VegetableCost.runtimeconfig.json
+D:\Documents\WORK\C#\VegetableCost\bin\Debug\net6.0\VegetableCost.dll
+D:\Documents\WORK\C#\VegetableCost\bin\Debug\net6.0\VegetableCost.pdb
+D:\Documents\WORK\C#\VegetableCost\obj\Debug\net6.0\VegetableCost.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\VegetableCost\obj\Debug\net6.0\VegetableCost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\VegetableCost\obj\Debug\net6.0\VegetableCost.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\VegetableCost\obj\Debug\net6.0\VegetableCost.AssemblyInfo.cs
+D:\Documents\WORK\C#\VegetableCost\obj\Debug\net6.0\VegetableCost.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\VegetableCost\obj\Debug\net6.0\VegetableCost.dll
+D:\Documents\WORK\C#\VegetableCost\obj\Debug\net6.0\refint\VegetableCost.dll
+D:\Documents\WORK\C#\VegetableCost\obj\Debug\net6.0\VegetableCost.pdb
+D:\Documents\WORK\C#\VegetableCost\obj\Debug\net6.0\VegetableCost.genruntimeconfig.cache
+D:\Documents\WORK\C#\VegetableCost\obj\Debug\net6.0\ref\VegetableCost.dll
