@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\VSTLiteCourier\bin\Debug\net6.0\VSTLiteCourier.exe
+D:\Documents\WORK\C#\VSTLiteCourier\bin\Debug\net6.0\VSTLiteCourier.deps.json
+D:\Documents\WORK\C#\VSTLiteCourier\bin\Debug\net6.0\VSTLiteCourier.runtimeconfig.json
+D:\Documents\WORK\C#\VSTLiteCourier\bin\Debug\net6.0\VSTLiteCourier.dll
+D:\Documents\WORK\C#\VSTLiteCourier\bin\Debug\net6.0\VSTLiteCourier.pdb
+D:\Documents\WORK\C#\VSTLiteCourier\obj\Debug\net6.0\VSTLiteCourier.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\VSTLiteCourier\obj\Debug\net6.0\VSTLiteCourier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\VSTLiteCourier\obj\Debug\net6.0\VSTLiteCourier.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\VSTLiteCourier\obj\Debug\net6.0\VSTLiteCourier.AssemblyInfo.cs
+D:\Documents\WORK\C#\VSTLiteCourier\obj\Debug\net6.0\VSTLiteCourier.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\VSTLiteCourier\obj\Debug\net6.0\VSTLiteCourier.dll
+D:\Documents\WORK\C#\VSTLiteCourier\obj\Debug\net6.0\refint\VSTLiteCourier.dll
+D:\Documents\WORK\C#\VSTLiteCourier\obj\Debug\net6.0\VSTLiteCourier.pdb
+D:\Documents\WORK\C#\VSTLiteCourier\obj\Debug\net6.0\VSTLiteCourier.genruntimeconfig.cache
+D:\Documents\WORK\C#\VSTLiteCourier\obj\Debug\net6.0\ref\VSTLiteCourier.dll

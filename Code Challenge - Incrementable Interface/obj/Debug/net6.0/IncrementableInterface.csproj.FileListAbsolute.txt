@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\IncrementableInterface\bin\Debug\net6.0\IncrementableInterface.exe
+D:\Documents\WORK\C#\IncrementableInterface\bin\Debug\net6.0\IncrementableInterface.deps.json
+D:\Documents\WORK\C#\IncrementableInterface\bin\Debug\net6.0\IncrementableInterface.runtimeconfig.json
+D:\Documents\WORK\C#\IncrementableInterface\bin\Debug\net6.0\IncrementableInterface.dll
+D:\Documents\WORK\C#\IncrementableInterface\bin\Debug\net6.0\IncrementableInterface.pdb
+D:\Documents\WORK\C#\IncrementableInterface\obj\Debug\net6.0\IncrementableInterface.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\IncrementableInterface\obj\Debug\net6.0\IncrementableInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\IncrementableInterface\obj\Debug\net6.0\IncrementableInterface.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\IncrementableInterface\obj\Debug\net6.0\IncrementableInterface.AssemblyInfo.cs
+D:\Documents\WORK\C#\IncrementableInterface\obj\Debug\net6.0\IncrementableInterface.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\IncrementableInterface\obj\Debug\net6.0\IncrementableInterface.dll
+D:\Documents\WORK\C#\IncrementableInterface\obj\Debug\net6.0\refint\IncrementableInterface.dll
+D:\Documents\WORK\C#\IncrementableInterface\obj\Debug\net6.0\IncrementableInterface.pdb
+D:\Documents\WORK\C#\IncrementableInterface\obj\Debug\net6.0\IncrementableInterface.genruntimeconfig.cache
+D:\Documents\WORK\C#\IncrementableInterface\obj\Debug\net6.0\ref\IncrementableInterface.dll

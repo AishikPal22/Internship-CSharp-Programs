@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\MysticBeautyParlour\bin\Debug\net6.0\MysticBeautyParlour.exe
+D:\Documents\WORK\C#\MysticBeautyParlour\bin\Debug\net6.0\MysticBeautyParlour.deps.json
+D:\Documents\WORK\C#\MysticBeautyParlour\bin\Debug\net6.0\MysticBeautyParlour.runtimeconfig.json
+D:\Documents\WORK\C#\MysticBeautyParlour\bin\Debug\net6.0\MysticBeautyParlour.dll
+D:\Documents\WORK\C#\MysticBeautyParlour\bin\Debug\net6.0\MysticBeautyParlour.pdb
+D:\Documents\WORK\C#\MysticBeautyParlour\obj\Debug\net6.0\MysticBeautyParlour.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\MysticBeautyParlour\obj\Debug\net6.0\MysticBeautyParlour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\MysticBeautyParlour\obj\Debug\net6.0\MysticBeautyParlour.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\MysticBeautyParlour\obj\Debug\net6.0\MysticBeautyParlour.AssemblyInfo.cs
+D:\Documents\WORK\C#\MysticBeautyParlour\obj\Debug\net6.0\MysticBeautyParlour.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\MysticBeautyParlour\obj\Debug\net6.0\MysticBeautyParlour.dll
+D:\Documents\WORK\C#\MysticBeautyParlour\obj\Debug\net6.0\refint\MysticBeautyParlour.dll
+D:\Documents\WORK\C#\MysticBeautyParlour\obj\Debug\net6.0\MysticBeautyParlour.pdb
+D:\Documents\WORK\C#\MysticBeautyParlour\obj\Debug\net6.0\MysticBeautyParlour.genruntimeconfig.cache
+D:\Documents\WORK\C#\MysticBeautyParlour\obj\Debug\net6.0\ref\MysticBeautyParlour.dll

@@ -1,0 +1,15 @@
+C:\Users\2270322\source\repos\CustomerUtility\bin\Debug\net6.0\CustomerUtility.exe
+C:\Users\2270322\source\repos\CustomerUtility\bin\Debug\net6.0\CustomerUtility.deps.json
+C:\Users\2270322\source\repos\CustomerUtility\bin\Debug\net6.0\CustomerUtility.runtimeconfig.json
+C:\Users\2270322\source\repos\CustomerUtility\bin\Debug\net6.0\CustomerUtility.dll
+C:\Users\2270322\source\repos\CustomerUtility\bin\Debug\net6.0\CustomerUtility.pdb
+C:\Users\2270322\source\repos\CustomerUtility\obj\Debug\net6.0\CustomerUtility.csproj.AssemblyReference.cache
+C:\Users\2270322\source\repos\CustomerUtility\obj\Debug\net6.0\CustomerUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2270322\source\repos\CustomerUtility\obj\Debug\net6.0\CustomerUtility.AssemblyInfoInputs.cache
+C:\Users\2270322\source\repos\CustomerUtility\obj\Debug\net6.0\CustomerUtility.AssemblyInfo.cs
+C:\Users\2270322\source\repos\CustomerUtility\obj\Debug\net6.0\CustomerUtility.csproj.CoreCompileInputs.cache
+C:\Users\2270322\source\repos\CustomerUtility\obj\Debug\net6.0\CustomerUtility.dll
+C:\Users\2270322\source\repos\CustomerUtility\obj\Debug\net6.0\refint\CustomerUtility.dll
+C:\Users\2270322\source\repos\CustomerUtility\obj\Debug\net6.0\CustomerUtility.pdb
+C:\Users\2270322\source\repos\CustomerUtility\obj\Debug\net6.0\CustomerUtility.genruntimeconfig.cache
+C:\Users\2270322\source\repos\CustomerUtility\obj\Debug\net6.0\ref\CustomerUtility.dll
