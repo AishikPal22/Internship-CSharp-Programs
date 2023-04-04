@@ -1,0 +1,15 @@
+C:\Users\2270322\source\repos\MotorsHut\bin\Debug\net6.0\MotorsHut.exe
+C:\Users\2270322\source\repos\MotorsHut\bin\Debug\net6.0\MotorsHut.deps.json
+C:\Users\2270322\source\repos\MotorsHut\bin\Debug\net6.0\MotorsHut.runtimeconfig.json
+C:\Users\2270322\source\repos\MotorsHut\bin\Debug\net6.0\MotorsHut.dll
+C:\Users\2270322\source\repos\MotorsHut\bin\Debug\net6.0\MotorsHut.pdb
+C:\Users\2270322\source\repos\MotorsHut\obj\Debug\net6.0\MotorsHut.csproj.AssemblyReference.cache
+C:\Users\2270322\source\repos\MotorsHut\obj\Debug\net6.0\MotorsHut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2270322\source\repos\MotorsHut\obj\Debug\net6.0\MotorsHut.AssemblyInfoInputs.cache
+C:\Users\2270322\source\repos\MotorsHut\obj\Debug\net6.0\MotorsHut.AssemblyInfo.cs
+C:\Users\2270322\source\repos\MotorsHut\obj\Debug\net6.0\MotorsHut.csproj.CoreCompileInputs.cache
+C:\Users\2270322\source\repos\MotorsHut\obj\Debug\net6.0\MotorsHut.dll
+C:\Users\2270322\source\repos\MotorsHut\obj\Debug\net6.0\refint\MotorsHut.dll
+C:\Users\2270322\source\repos\MotorsHut\obj\Debug\net6.0\MotorsHut.pdb
+C:\Users\2270322\source\repos\MotorsHut\obj\Debug\net6.0\MotorsHut.genruntimeconfig.cache
+C:\Users\2270322\source\repos\MotorsHut\obj\Debug\net6.0\ref\MotorsHut.dll

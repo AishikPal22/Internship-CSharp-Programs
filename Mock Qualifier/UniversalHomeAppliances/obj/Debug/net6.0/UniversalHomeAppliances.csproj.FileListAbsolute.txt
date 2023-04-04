@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\UniversalHomeAppliances\obj\Debug\net6.0\UniversalHomeAppliances.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\UniversalHomeAppliances\obj\Debug\net6.0\UniversalHomeAppliances.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\UniversalHomeAppliances\obj\Debug\net6.0\UniversalHomeAppliances.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\UniversalHomeAppliances\obj\Debug\net6.0\UniversalHomeAppliances.AssemblyInfo.cs
+D:\Documents\WORK\C#\UniversalHomeAppliances\obj\Debug\net6.0\UniversalHomeAppliances.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\UniversalHomeAppliances\bin\Debug\net6.0\UniversalHomeAppliances.exe
+D:\Documents\WORK\C#\UniversalHomeAppliances\bin\Debug\net6.0\UniversalHomeAppliances.deps.json
+D:\Documents\WORK\C#\UniversalHomeAppliances\bin\Debug\net6.0\UniversalHomeAppliances.runtimeconfig.json
+D:\Documents\WORK\C#\UniversalHomeAppliances\bin\Debug\net6.0\UniversalHomeAppliances.dll
+D:\Documents\WORK\C#\UniversalHomeAppliances\bin\Debug\net6.0\UniversalHomeAppliances.pdb
+D:\Documents\WORK\C#\UniversalHomeAppliances\obj\Debug\net6.0\UniversalHomeAppliances.dll
+D:\Documents\WORK\C#\UniversalHomeAppliances\obj\Debug\net6.0\refint\UniversalHomeAppliances.dll
+D:\Documents\WORK\C#\UniversalHomeAppliances\obj\Debug\net6.0\UniversalHomeAppliances.pdb
+D:\Documents\WORK\C#\UniversalHomeAppliances\obj\Debug\net6.0\UniversalHomeAppliances.genruntimeconfig.cache
+D:\Documents\WORK\C#\UniversalHomeAppliances\obj\Debug\net6.0\ref\UniversalHomeAppliances.dll
