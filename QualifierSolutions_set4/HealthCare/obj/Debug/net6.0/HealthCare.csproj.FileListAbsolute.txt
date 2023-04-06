@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\HealthCare\bin\Debug\net6.0\HealthCare.exe
+D:\Documents\WORK\C#\HealthCare\bin\Debug\net6.0\HealthCare.deps.json
+D:\Documents\WORK\C#\HealthCare\bin\Debug\net6.0\HealthCare.runtimeconfig.json
+D:\Documents\WORK\C#\HealthCare\bin\Debug\net6.0\HealthCare.dll
+D:\Documents\WORK\C#\HealthCare\bin\Debug\net6.0\HealthCare.pdb
+D:\Documents\WORK\C#\HealthCare\obj\Debug\net6.0\HealthCare.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\HealthCare\obj\Debug\net6.0\HealthCare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\HealthCare\obj\Debug\net6.0\HealthCare.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\HealthCare\obj\Debug\net6.0\HealthCare.AssemblyInfo.cs
+D:\Documents\WORK\C#\HealthCare\obj\Debug\net6.0\HealthCare.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\HealthCare\obj\Debug\net6.0\HealthCare.dll
+D:\Documents\WORK\C#\HealthCare\obj\Debug\net6.0\refint\HealthCare.dll
+D:\Documents\WORK\C#\HealthCare\obj\Debug\net6.0\HealthCare.pdb
+D:\Documents\WORK\C#\HealthCare\obj\Debug\net6.0\HealthCare.genruntimeconfig.cache
+D:\Documents\WORK\C#\HealthCare\obj\Debug\net6.0\ref\HealthCare.dll
