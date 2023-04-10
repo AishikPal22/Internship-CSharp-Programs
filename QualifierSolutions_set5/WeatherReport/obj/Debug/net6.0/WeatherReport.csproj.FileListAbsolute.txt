@@ -1,0 +1,18 @@
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\bin\Debug\net6.0\WeatherReport.exe
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\bin\Debug\net6.0\WeatherReport.deps.json
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\bin\Debug\net6.0\WeatherReport.runtimeconfig.json
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\bin\Debug\net6.0\WeatherReport.dll
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\bin\Debug\net6.0\WeatherReport.pdb
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\obj\Debug\net6.0\WeatherReport.csproj.AssemblyReference.cache
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\obj\Debug\net6.0\WeatherReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\obj\Debug\net6.0\WeatherReport.AssemblyInfoInputs.cache
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\obj\Debug\net6.0\WeatherReport.AssemblyInfo.cs
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\obj\Debug\net6.0\WeatherReport.csproj.CoreCompileInputs.cache
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\obj\Debug\net6.0\WeatherReport.dll
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\obj\Debug\net6.0\refint\WeatherReport.dll
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\obj\Debug\net6.0\WeatherReport.pdb
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\obj\Debug\net6.0\WeatherReport.genruntimeconfig.cache
+C:\Users\2270322\OneDrive - Cognizant\C# Programs\WeatherReport\obj\Debug\net6.0\ref\WeatherReport.dll
+D:\Downloads\WeatherReport\WeatherReport\obj\Debug\net6.0\WeatherReport.dll
+D:\Downloads\WeatherReport\WeatherReport\obj\Debug\net6.0\refint\WeatherReport.dll
+D:\Downloads\WeatherReport\WeatherReport\obj\Debug\net6.0\WeatherReport.pdb
