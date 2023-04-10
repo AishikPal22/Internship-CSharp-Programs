@@ -1,0 +1,15 @@
+/home/aishik/Documents/C#/MechtronicCard/bin/Debug/net7.0/MechtronicCard
+/home/aishik/Documents/C#/MechtronicCard/bin/Debug/net7.0/MechtronicCard.deps.json
+/home/aishik/Documents/C#/MechtronicCard/bin/Debug/net7.0/MechtronicCard.runtimeconfig.json
+/home/aishik/Documents/C#/MechtronicCard/bin/Debug/net7.0/MechtronicCard.dll
+/home/aishik/Documents/C#/MechtronicCard/bin/Debug/net7.0/MechtronicCard.pdb
+/home/aishik/Documents/C#/MechtronicCard/obj/Debug/net7.0/MechtronicCard.csproj.AssemblyReference.cache
+/home/aishik/Documents/C#/MechtronicCard/obj/Debug/net7.0/MechtronicCard.GeneratedMSBuildEditorConfig.editorconfig
+/home/aishik/Documents/C#/MechtronicCard/obj/Debug/net7.0/MechtronicCard.AssemblyInfoInputs.cache
+/home/aishik/Documents/C#/MechtronicCard/obj/Debug/net7.0/MechtronicCard.AssemblyInfo.cs
+/home/aishik/Documents/C#/MechtronicCard/obj/Debug/net7.0/MechtronicCard.csproj.CoreCompileInputs.cache
+/home/aishik/Documents/C#/MechtronicCard/obj/Debug/net7.0/MechtronicCard.dll
+/home/aishik/Documents/C#/MechtronicCard/obj/Debug/net7.0/refint/MechtronicCard.dll
+/home/aishik/Documents/C#/MechtronicCard/obj/Debug/net7.0/MechtronicCard.pdb
+/home/aishik/Documents/C#/MechtronicCard/obj/Debug/net7.0/MechtronicCard.genruntimeconfig.cache
+/home/aishik/Documents/C#/MechtronicCard/obj/Debug/net7.0/ref/MechtronicCard.dll

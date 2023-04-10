@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "goWEPrNOtiXeGeNF3WdrhpogDKDJWMfkcsuNa1QFu63cP8rpbTU0cc4lz0/7R83qt2hwIJ3Lp6G10NbqGJwjnw==",
+  "success": true,
+  "projectFilePath": "/home/aishik/Documents/C#/MechtronicCard/MechtronicCard.csproj",
+  "expectedPackageFiles": [
+    "/home/aishik/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
