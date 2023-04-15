@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3iVk9oLvFyv7hRtZT6GCXay+rLnyCU7gIEBj739PDwgX+ft3if9qDaAww7e9wCIAHrWiICVh6totcAwBmkWH0w==",
+  "dgSpecHash": "KhiiBgz352e/96jUG3MLtuUXaY71vtuS0/HgOit9Wx7PScTxdFwfSpEwytflaVGqbp2dQhWYK6VhhBkkcDHgkg==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\WORK\\C#\\ArchiveManagement\\ArchiveManagement.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/ArchiveManagement.csproj",
+  "expectedPackageFiles": [
+    "/home/aishik/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

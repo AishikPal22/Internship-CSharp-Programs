@@ -1,5 +1,5 @@
 ﻿namespace ArchiveManagement;
-public class Program
+class Program
 {
     public static SortedDictionary<int, Book> bookDetails = new SortedDictionary<int, Book>();
     
@@ -39,7 +39,7 @@ public class Program
                     System.Console.WriteLine("MemberID\tPenalty");
                     foreach(KeyValuePair<string, double> kvp in penaltyDict)
                     {
-                        System.Console.WriteLine($"{kvp.Key}\t{kvp.Value}");
+                        System.Console.WriteLine($"{kvp.Key}\t\t{kvp.Value}");
                     }
                     break;
 
@@ -64,41 +64,28 @@ public class Program
 
     public SortedDictionary<string,List<Book>> GroupBooksByGenre()
     {
-        SortedDictionary<string, List<Book>> myDict = new SortedDictionary<string, List<Book>>();
-        // List containing all genres
-        List<string> stringList = new List<string>(); 
+        List<string> StringList = new List<string>(); 
         foreach(Book item in bookDetails.Values)
         {
-            stringList.Add(item.Genre);
+            StringList.Add(item.Genre);
         }
-        // List containing distinct genres
-        List<string> myList = new List<string>();
-        myList.AddRange(stringList.Distinct());
-        // List containing objects
-        List<Book> books1 = new List<Book>();
-        List<Book> books2 = new List<Book>();
-        List<Book> books3 = new List<Book>();
-        foreach(Book item in bookDetails.Values)
-        {
-            if(String.Equals(item.Genre, myList[0]))
-            {
-                books1.Add(item);
-            }
-            if(String.Equals(item.Genre, myList[1]))
-            {
-                books2.Add(item);
-            }
-            if(String.Equals(item.Genre, myList[2]))
-            {
-                books3.Add(item);
-            }
-        }
-        // Adding to Dictionary
-        myDict.Add(myList[0],books1);
-        myDict.Add(myList[1],books2);
-        myDict.Add(myList[2],books3);
+        List<string> MyList = new List<string>();
+        MyList.AddRange(StringList.Distinct());
 
-        return myDict;
+        SortedDictionary<string, List<Book>> MyDict = new SortedDictionary<string, List<Book>>();
+
+        for(int i=0;i<MyList.Count;i++)
+        {
+            List<Book> BookList = new List<Book>();
+            foreach(Book item in bookDetails.Values)
+            {   
+                if(item.Genre == MyList[i])
+                    BookList.Add(item);
+            }
+            MyDict.Add(MyList[i],BookList);
+        }
+
+        return MyDict;
     }
 
     public Dictionary<string, double> UpdatePenaltyAmount(double amount)
@@ -132,4 +119,5 @@ public class Program
 
         return myList;
     }
+    
 }

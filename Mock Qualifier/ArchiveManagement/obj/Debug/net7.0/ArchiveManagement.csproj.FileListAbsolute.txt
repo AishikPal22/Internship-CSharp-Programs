@@ -1,0 +1,15 @@
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/bin/Debug/net7.0/ArchiveManagement
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/bin/Debug/net7.0/ArchiveManagement.deps.json
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/bin/Debug/net7.0/ArchiveManagement.runtimeconfig.json
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/bin/Debug/net7.0/ArchiveManagement.dll
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/bin/Debug/net7.0/ArchiveManagement.pdb
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/obj/Debug/net7.0/ArchiveManagement.csproj.AssemblyReference.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/obj/Debug/net7.0/ArchiveManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/obj/Debug/net7.0/ArchiveManagement.AssemblyInfoInputs.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/obj/Debug/net7.0/ArchiveManagement.AssemblyInfo.cs
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/obj/Debug/net7.0/ArchiveManagement.csproj.CoreCompileInputs.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/obj/Debug/net7.0/ArchiveManagement.dll
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/obj/Debug/net7.0/refint/ArchiveManagement.dll
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/obj/Debug/net7.0/ArchiveManagement.pdb
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/obj/Debug/net7.0/ArchiveManagement.genruntimeconfig.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Mock Qualifier/ArchiveManagement/obj/Debug/net7.0/ref/ArchiveManagement.dll
