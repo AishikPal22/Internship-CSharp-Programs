@@ -2,7 +2,6 @@
 Solutions to the C# coding programs from Cognizant Tekstac platform. Includes programs from selected Hands-Ons, Coding Challenges, ICTs and Qualifier Examinations.
 
 # C# Qualifier Assessment
-
 ---
 
 ## Set 1 Questions
