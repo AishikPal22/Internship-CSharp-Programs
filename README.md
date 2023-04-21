@@ -1,5 +1,5 @@
 # TekStac-Solutions
-Solutions to the C# coding programs from Cognizant Tekstac platform. Includes programs from selected Hands-Ons, Coding Challenges, ICTs and Qualifier Examinations.
+Solutions to the C# programs from Cognizant's Tekstac learning platform.
 
 # C# Qualifier Assessment
 
@@ -48,4 +48,4 @@ Weather Report - List
 Universal Home Appliances - Dictionary\
 Elegant Jewels - Inheritance\
 Archive Managment - Sorted Dictionary\
-Motors Hut - Sorted Inheritance
+Motors Hut - Inheritance
