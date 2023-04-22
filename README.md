@@ -3,6 +3,14 @@ Solutions to the C# programs from Cognizant's Tekstac learning platform.
 
 # C# Qualifier Assessment
 
+## My Set Questions
+
+Pixel Point - Dictionary\
+Central Blood Bank - Dictionary\
+The Plant Haven - Inheritance
+
+---
+
 ## Set 1 Questions
 
 Isaac University - List\
