@@ -1,0 +1,15 @@
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/bin/Debug/net7.0/ThePlantHaven
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/bin/Debug/net7.0/ThePlantHaven.deps.json
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/bin/Debug/net7.0/ThePlantHaven.runtimeconfig.json
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/bin/Debug/net7.0/ThePlantHaven.dll
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/bin/Debug/net7.0/ThePlantHaven.pdb
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/obj/Debug/net7.0/ThePlantHaven.csproj.AssemblyReference.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/obj/Debug/net7.0/ThePlantHaven.GeneratedMSBuildEditorConfig.editorconfig
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/obj/Debug/net7.0/ThePlantHaven.AssemblyInfoInputs.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/obj/Debug/net7.0/ThePlantHaven.AssemblyInfo.cs
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/obj/Debug/net7.0/ThePlantHaven.csproj.CoreCompileInputs.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/obj/Debug/net7.0/ThePlantHaven.dll
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/obj/Debug/net7.0/refint/ThePlantHaven.dll
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/obj/Debug/net7.0/ThePlantHaven.pdb
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/obj/Debug/net7.0/ThePlantHaven.genruntimeconfig.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/obj/Debug/net7.0/ref/ThePlantHaven.dll

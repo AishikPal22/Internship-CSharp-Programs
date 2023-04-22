@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mx0uCePGPjwpIZAkLuUvBs1EaC8oAqHvSOcVlbalYx0SLncz9tu5eR7Iys/4RTuI67Q40cWqBlSRDpHK6/8WrQ==",
+  "success": true,
+  "projectFilePath": "/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/ThePlantHaven/ThePlantHaven.csproj",
+  "expectedPackageFiles": [
+    "/home/aishik/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

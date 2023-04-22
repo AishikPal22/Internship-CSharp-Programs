@@ -1,0 +1,15 @@
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/bin/Debug/net7.0/PixelPoint
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/bin/Debug/net7.0/PixelPoint.deps.json
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/bin/Debug/net7.0/PixelPoint.runtimeconfig.json
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/bin/Debug/net7.0/PixelPoint.dll
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/bin/Debug/net7.0/PixelPoint.pdb
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/obj/Debug/net7.0/PixelPoint.csproj.AssemblyReference.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/obj/Debug/net7.0/PixelPoint.GeneratedMSBuildEditorConfig.editorconfig
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/obj/Debug/net7.0/PixelPoint.AssemblyInfoInputs.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/obj/Debug/net7.0/PixelPoint.AssemblyInfo.cs
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/obj/Debug/net7.0/PixelPoint.csproj.CoreCompileInputs.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/obj/Debug/net7.0/PixelPoint.dll
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/obj/Debug/net7.0/refint/PixelPoint.dll
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/obj/Debug/net7.0/PixelPoint.pdb
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/obj/Debug/net7.0/PixelPoint.genruntimeconfig.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/PixelPoint/obj/Debug/net7.0/ref/PixelPoint.dll

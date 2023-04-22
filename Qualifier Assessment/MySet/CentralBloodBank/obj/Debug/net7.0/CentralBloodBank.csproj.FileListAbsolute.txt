@@ -1,0 +1,15 @@
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/bin/Debug/net7.0/CentralBloodBank
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/bin/Debug/net7.0/CentralBloodBank.deps.json
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/bin/Debug/net7.0/CentralBloodBank.runtimeconfig.json
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/bin/Debug/net7.0/CentralBloodBank.dll
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/bin/Debug/net7.0/CentralBloodBank.pdb
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/obj/Debug/net7.0/CentralBloodBank.csproj.AssemblyReference.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/obj/Debug/net7.0/CentralBloodBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/obj/Debug/net7.0/CentralBloodBank.AssemblyInfoInputs.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/obj/Debug/net7.0/CentralBloodBank.AssemblyInfo.cs
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/obj/Debug/net7.0/CentralBloodBank.csproj.CoreCompileInputs.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/obj/Debug/net7.0/CentralBloodBank.dll
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/obj/Debug/net7.0/refint/CentralBloodBank.dll
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/obj/Debug/net7.0/CentralBloodBank.pdb
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/obj/Debug/net7.0/CentralBloodBank.genruntimeconfig.cache
+/home/aishik/Documents/GitHub/TekStac-Solutions/Qualifier Assessment/MySet/CentralBloodBank/obj/Debug/net7.0/ref/CentralBloodBank.dll
