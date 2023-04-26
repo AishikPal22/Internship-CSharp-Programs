@@ -1,6 +1,3 @@
-# TekStac-Solutions
-Solutions to the C# programs from Cognizant's Tekstac learning platform.
-
 # C# Qualifier Assessment
 
 ## My Set Questions
