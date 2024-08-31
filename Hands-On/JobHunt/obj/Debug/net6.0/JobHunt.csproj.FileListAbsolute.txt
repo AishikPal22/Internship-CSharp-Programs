@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\JobHunt\bin\Debug\net6.0\JobHunt.exe
+D:\Documents\WORK\C#\JobHunt\bin\Debug\net6.0\JobHunt.deps.json
+D:\Documents\WORK\C#\JobHunt\bin\Debug\net6.0\JobHunt.runtimeconfig.json
+D:\Documents\WORK\C#\JobHunt\bin\Debug\net6.0\JobHunt.dll
+D:\Documents\WORK\C#\JobHunt\bin\Debug\net6.0\JobHunt.pdb
+D:\Documents\WORK\C#\JobHunt\obj\Debug\net6.0\JobHunt.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\JobHunt\obj\Debug\net6.0\JobHunt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\JobHunt\obj\Debug\net6.0\JobHunt.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\JobHunt\obj\Debug\net6.0\JobHunt.AssemblyInfo.cs
+D:\Documents\WORK\C#\JobHunt\obj\Debug\net6.0\JobHunt.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\JobHunt\obj\Debug\net6.0\JobHunt.dll
+D:\Documents\WORK\C#\JobHunt\obj\Debug\net6.0\refint\JobHunt.dll
+D:\Documents\WORK\C#\JobHunt\obj\Debug\net6.0\JobHunt.pdb
+D:\Documents\WORK\C#\JobHunt\obj\Debug\net6.0\JobHunt.genruntimeconfig.cache
+D:\Documents\WORK\C#\JobHunt\obj\Debug\net6.0\ref\JobHunt.dll

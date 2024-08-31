@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\AbstractionDemo\bin\Debug\net6.0\AbstractionDemo.exe
+D:\Documents\WORK\C#\AbstractionDemo\bin\Debug\net6.0\AbstractionDemo.deps.json
+D:\Documents\WORK\C#\AbstractionDemo\bin\Debug\net6.0\AbstractionDemo.runtimeconfig.json
+D:\Documents\WORK\C#\AbstractionDemo\bin\Debug\net6.0\AbstractionDemo.dll
+D:\Documents\WORK\C#\AbstractionDemo\bin\Debug\net6.0\AbstractionDemo.pdb
+D:\Documents\WORK\C#\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.AssemblyInfo.cs
+D:\Documents\WORK\C#\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.dll
+D:\Documents\WORK\C#\AbstractionDemo\obj\Debug\net6.0\refint\AbstractionDemo.dll
+D:\Documents\WORK\C#\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.pdb
+D:\Documents\WORK\C#\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.genruntimeconfig.cache
+D:\Documents\WORK\C#\AbstractionDemo\obj\Debug\net6.0\ref\AbstractionDemo.dll

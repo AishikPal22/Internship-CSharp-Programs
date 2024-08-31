@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\ReadWriteDemo\bin\Debug\net6.0\ReadWriteDemo.exe
+D:\Documents\WORK\C#\ReadWriteDemo\bin\Debug\net6.0\ReadWriteDemo.deps.json
+D:\Documents\WORK\C#\ReadWriteDemo\bin\Debug\net6.0\ReadWriteDemo.runtimeconfig.json
+D:\Documents\WORK\C#\ReadWriteDemo\bin\Debug\net6.0\ReadWriteDemo.dll
+D:\Documents\WORK\C#\ReadWriteDemo\bin\Debug\net6.0\ReadWriteDemo.pdb
+D:\Documents\WORK\C#\ReadWriteDemo\obj\Debug\net6.0\ReadWriteDemo.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\ReadWriteDemo\obj\Debug\net6.0\ReadWriteDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\ReadWriteDemo\obj\Debug\net6.0\ReadWriteDemo.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\ReadWriteDemo\obj\Debug\net6.0\ReadWriteDemo.AssemblyInfo.cs
+D:\Documents\WORK\C#\ReadWriteDemo\obj\Debug\net6.0\ReadWriteDemo.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\ReadWriteDemo\obj\Debug\net6.0\ReadWriteDemo.dll
+D:\Documents\WORK\C#\ReadWriteDemo\obj\Debug\net6.0\refint\ReadWriteDemo.dll
+D:\Documents\WORK\C#\ReadWriteDemo\obj\Debug\net6.0\ReadWriteDemo.pdb
+D:\Documents\WORK\C#\ReadWriteDemo\obj\Debug\net6.0\ReadWriteDemo.genruntimeconfig.cache
+D:\Documents\WORK\C#\ReadWriteDemo\obj\Debug\net6.0\ref\ReadWriteDemo.dll

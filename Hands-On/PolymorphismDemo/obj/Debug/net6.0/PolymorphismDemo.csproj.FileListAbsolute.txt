@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.exe
+D:\Documents\WORK\C#\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.deps.json
+D:\Documents\WORK\C#\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.runtimeconfig.json
+D:\Documents\WORK\C#\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.dll
+D:\Documents\WORK\C#\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.pdb
+D:\Documents\WORK\C#\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.AssemblyInfo.cs
+D:\Documents\WORK\C#\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.dll
+D:\Documents\WORK\C#\PolymorphismDemo\obj\Debug\net6.0\refint\PolymorphismDemo.dll
+D:\Documents\WORK\C#\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.pdb
+D:\Documents\WORK\C#\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.genruntimeconfig.cache
+D:\Documents\WORK\C#\PolymorphismDemo\obj\Debug\net6.0\ref\PolymorphismDemo.dll

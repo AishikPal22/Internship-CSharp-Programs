@@ -1,0 +1,8 @@
+D:\Documents\WORK\C#\ProgFundamentals7\bin\Debug\ProgFundamentals7.exe.config
+D:\Documents\WORK\C#\ProgFundamentals7\bin\Debug\ProgFundamentals7.exe
+D:\Documents\WORK\C#\ProgFundamentals7\bin\Debug\ProgFundamentals7.pdb
+D:\Documents\WORK\C#\ProgFundamentals7\obj\Debug\ProgFundamentals7.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\ProgFundamentals7\obj\Debug\ProgFundamentals7.csproj.SuggestedBindingRedirects.cache
+D:\Documents\WORK\C#\ProgFundamentals7\obj\Debug\ProgFundamentals7.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\ProgFundamentals7\obj\Debug\ProgFundamentals7.exe
+D:\Documents\WORK\C#\ProgFundamentals7\obj\Debug\ProgFundamentals7.pdb

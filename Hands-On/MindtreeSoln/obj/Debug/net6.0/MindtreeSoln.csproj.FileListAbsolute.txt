@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\MindtreeSoln\bin\Debug\net6.0\MindtreeSoln.exe
+D:\Documents\WORK\C#\MindtreeSoln\bin\Debug\net6.0\MindtreeSoln.deps.json
+D:\Documents\WORK\C#\MindtreeSoln\bin\Debug\net6.0\MindtreeSoln.runtimeconfig.json
+D:\Documents\WORK\C#\MindtreeSoln\bin\Debug\net6.0\MindtreeSoln.dll
+D:\Documents\WORK\C#\MindtreeSoln\bin\Debug\net6.0\MindtreeSoln.pdb
+D:\Documents\WORK\C#\MindtreeSoln\obj\Debug\net6.0\MindtreeSoln.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\MindtreeSoln\obj\Debug\net6.0\MindtreeSoln.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\MindtreeSoln\obj\Debug\net6.0\MindtreeSoln.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\MindtreeSoln\obj\Debug\net6.0\MindtreeSoln.AssemblyInfo.cs
+D:\Documents\WORK\C#\MindtreeSoln\obj\Debug\net6.0\MindtreeSoln.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\MindtreeSoln\obj\Debug\net6.0\MindtreeSoln.dll
+D:\Documents\WORK\C#\MindtreeSoln\obj\Debug\net6.0\refint\MindtreeSoln.dll
+D:\Documents\WORK\C#\MindtreeSoln\obj\Debug\net6.0\MindtreeSoln.pdb
+D:\Documents\WORK\C#\MindtreeSoln\obj\Debug\net6.0\MindtreeSoln.genruntimeconfig.cache
+D:\Documents\WORK\C#\MindtreeSoln\obj\Debug\net6.0\ref\MindtreeSoln.dll

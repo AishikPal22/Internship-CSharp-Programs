@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\MindtreeQ1\bin\Debug\net6.0\MindtreeQ1.exe
+D:\Documents\WORK\C#\MindtreeQ1\bin\Debug\net6.0\MindtreeQ1.deps.json
+D:\Documents\WORK\C#\MindtreeQ1\bin\Debug\net6.0\MindtreeQ1.runtimeconfig.json
+D:\Documents\WORK\C#\MindtreeQ1\bin\Debug\net6.0\MindtreeQ1.dll
+D:\Documents\WORK\C#\MindtreeQ1\bin\Debug\net6.0\MindtreeQ1.pdb
+D:\Documents\WORK\C#\MindtreeQ1\obj\Debug\net6.0\MindtreeQ1.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\MindtreeQ1\obj\Debug\net6.0\MindtreeQ1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\MindtreeQ1\obj\Debug\net6.0\MindtreeQ1.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\MindtreeQ1\obj\Debug\net6.0\MindtreeQ1.AssemblyInfo.cs
+D:\Documents\WORK\C#\MindtreeQ1\obj\Debug\net6.0\MindtreeQ1.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\MindtreeQ1\obj\Debug\net6.0\MindtreeQ1.dll
+D:\Documents\WORK\C#\MindtreeQ1\obj\Debug\net6.0\refint\MindtreeQ1.dll
+D:\Documents\WORK\C#\MindtreeQ1\obj\Debug\net6.0\MindtreeQ1.pdb
+D:\Documents\WORK\C#\MindtreeQ1\obj\Debug\net6.0\MindtreeQ1.genruntimeconfig.cache
+D:\Documents\WORK\C#\MindtreeQ1\obj\Debug\net6.0\ref\MindtreeQ1.dll

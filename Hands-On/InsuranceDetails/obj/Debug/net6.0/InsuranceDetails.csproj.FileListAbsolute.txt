@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\InsuranceDetails\bin\Debug\net6.0\InsuranceDetails.exe
+D:\Documents\WORK\C#\InsuranceDetails\bin\Debug\net6.0\InsuranceDetails.deps.json
+D:\Documents\WORK\C#\InsuranceDetails\bin\Debug\net6.0\InsuranceDetails.runtimeconfig.json
+D:\Documents\WORK\C#\InsuranceDetails\bin\Debug\net6.0\InsuranceDetails.dll
+D:\Documents\WORK\C#\InsuranceDetails\bin\Debug\net6.0\InsuranceDetails.pdb
+D:\Documents\WORK\C#\InsuranceDetails\obj\Debug\net6.0\InsuranceDetails.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\InsuranceDetails\obj\Debug\net6.0\InsuranceDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\InsuranceDetails\obj\Debug\net6.0\InsuranceDetails.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\InsuranceDetails\obj\Debug\net6.0\InsuranceDetails.AssemblyInfo.cs
+D:\Documents\WORK\C#\InsuranceDetails\obj\Debug\net6.0\InsuranceDetails.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\InsuranceDetails\obj\Debug\net6.0\InsuranceDetails.dll
+D:\Documents\WORK\C#\InsuranceDetails\obj\Debug\net6.0\refint\InsuranceDetails.dll
+D:\Documents\WORK\C#\InsuranceDetails\obj\Debug\net6.0\InsuranceDetails.pdb
+D:\Documents\WORK\C#\InsuranceDetails\obj\Debug\net6.0\InsuranceDetails.genruntimeconfig.cache
+D:\Documents\WORK\C#\InsuranceDetails\obj\Debug\net6.0\ref\InsuranceDetails.dll

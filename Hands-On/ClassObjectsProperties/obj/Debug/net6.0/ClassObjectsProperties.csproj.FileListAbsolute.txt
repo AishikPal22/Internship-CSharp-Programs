@@ -1,0 +1,15 @@
+C:\Users\2270322\source\repos\ClassObjectsProperties\bin\Debug\net6.0\ClassObjectsProperties.exe
+C:\Users\2270322\source\repos\ClassObjectsProperties\bin\Debug\net6.0\ClassObjectsProperties.deps.json
+C:\Users\2270322\source\repos\ClassObjectsProperties\bin\Debug\net6.0\ClassObjectsProperties.runtimeconfig.json
+C:\Users\2270322\source\repos\ClassObjectsProperties\bin\Debug\net6.0\ClassObjectsProperties.dll
+C:\Users\2270322\source\repos\ClassObjectsProperties\bin\Debug\net6.0\ClassObjectsProperties.pdb
+C:\Users\2270322\source\repos\ClassObjectsProperties\obj\Debug\net6.0\ClassObjectsProperties.csproj.AssemblyReference.cache
+C:\Users\2270322\source\repos\ClassObjectsProperties\obj\Debug\net6.0\ClassObjectsProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2270322\source\repos\ClassObjectsProperties\obj\Debug\net6.0\ClassObjectsProperties.AssemblyInfoInputs.cache
+C:\Users\2270322\source\repos\ClassObjectsProperties\obj\Debug\net6.0\ClassObjectsProperties.AssemblyInfo.cs
+C:\Users\2270322\source\repos\ClassObjectsProperties\obj\Debug\net6.0\ClassObjectsProperties.csproj.CoreCompileInputs.cache
+C:\Users\2270322\source\repos\ClassObjectsProperties\obj\Debug\net6.0\ClassObjectsProperties.dll
+C:\Users\2270322\source\repos\ClassObjectsProperties\obj\Debug\net6.0\refint\ClassObjectsProperties.dll
+C:\Users\2270322\source\repos\ClassObjectsProperties\obj\Debug\net6.0\ClassObjectsProperties.pdb
+C:\Users\2270322\source\repos\ClassObjectsProperties\obj\Debug\net6.0\ClassObjectsProperties.genruntimeconfig.cache
+C:\Users\2270322\source\repos\ClassObjectsProperties\obj\Debug\net6.0\ref\ClassObjectsProperties.dll

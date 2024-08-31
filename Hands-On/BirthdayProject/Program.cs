@@ -15,6 +15,7 @@ namespace BirthdayProject
             DateTime bdate = DateTime.Parse(Console.ReadLine());
             Person man = new Person(fName, lName, bdate);
             man.DisplayDetails();
+            Console.ReadKey();
         }
     }
 }

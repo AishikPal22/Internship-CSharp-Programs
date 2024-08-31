@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\DeltaNetworks\bin\Debug\net6.0\DeltaNetworks.exe
+D:\Documents\WORK\C#\DeltaNetworks\bin\Debug\net6.0\DeltaNetworks.deps.json
+D:\Documents\WORK\C#\DeltaNetworks\bin\Debug\net6.0\DeltaNetworks.runtimeconfig.json
+D:\Documents\WORK\C#\DeltaNetworks\bin\Debug\net6.0\DeltaNetworks.dll
+D:\Documents\WORK\C#\DeltaNetworks\bin\Debug\net6.0\DeltaNetworks.pdb
+D:\Documents\WORK\C#\DeltaNetworks\obj\Debug\net6.0\DeltaNetworks.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\DeltaNetworks\obj\Debug\net6.0\DeltaNetworks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\DeltaNetworks\obj\Debug\net6.0\DeltaNetworks.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\DeltaNetworks\obj\Debug\net6.0\DeltaNetworks.AssemblyInfo.cs
+D:\Documents\WORK\C#\DeltaNetworks\obj\Debug\net6.0\DeltaNetworks.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\DeltaNetworks\obj\Debug\net6.0\DeltaNetworks.dll
+D:\Documents\WORK\C#\DeltaNetworks\obj\Debug\net6.0\refint\DeltaNetworks.dll
+D:\Documents\WORK\C#\DeltaNetworks\obj\Debug\net6.0\DeltaNetworks.pdb
+D:\Documents\WORK\C#\DeltaNetworks\obj\Debug\net6.0\DeltaNetworks.genruntimeconfig.cache
+D:\Documents\WORK\C#\DeltaNetworks\obj\Debug\net6.0\ref\DeltaNetworks.dll

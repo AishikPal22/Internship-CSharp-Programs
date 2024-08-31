@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\TravelCost\obj\Debug\net7.0\TravelCost.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\TravelCost\obj\Debug\net7.0\TravelCost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\TravelCost\obj\Debug\net7.0\TravelCost.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\TravelCost\obj\Debug\net7.0\TravelCost.AssemblyInfo.cs
+D:\Documents\WORK\C#\TravelCost\obj\Debug\net7.0\TravelCost.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\TravelCost\bin\Debug\net7.0\TravelCost.exe
+D:\Documents\WORK\C#\TravelCost\bin\Debug\net7.0\TravelCost.deps.json
+D:\Documents\WORK\C#\TravelCost\bin\Debug\net7.0\TravelCost.runtimeconfig.json
+D:\Documents\WORK\C#\TravelCost\bin\Debug\net7.0\TravelCost.dll
+D:\Documents\WORK\C#\TravelCost\bin\Debug\net7.0\TravelCost.pdb
+D:\Documents\WORK\C#\TravelCost\obj\Debug\net7.0\TravelCost.dll
+D:\Documents\WORK\C#\TravelCost\obj\Debug\net7.0\refint\TravelCost.dll
+D:\Documents\WORK\C#\TravelCost\obj\Debug\net7.0\TravelCost.pdb
+D:\Documents\WORK\C#\TravelCost\obj\Debug\net7.0\TravelCost.genruntimeconfig.cache
+D:\Documents\WORK\C#\TravelCost\obj\Debug\net7.0\ref\TravelCost.dll

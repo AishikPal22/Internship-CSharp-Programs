@@ -1,0 +1,15 @@
+C:\Users\2270322\source\repos\ElegantJewels\bin\Debug\net6.0\ElegantJewels.exe
+C:\Users\2270322\source\repos\ElegantJewels\bin\Debug\net6.0\ElegantJewels.deps.json
+C:\Users\2270322\source\repos\ElegantJewels\bin\Debug\net6.0\ElegantJewels.runtimeconfig.json
+C:\Users\2270322\source\repos\ElegantJewels\bin\Debug\net6.0\ElegantJewels.dll
+C:\Users\2270322\source\repos\ElegantJewels\bin\Debug\net6.0\ElegantJewels.pdb
+C:\Users\2270322\source\repos\ElegantJewels\obj\Debug\net6.0\ElegantJewels.csproj.AssemblyReference.cache
+C:\Users\2270322\source\repos\ElegantJewels\obj\Debug\net6.0\ElegantJewels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2270322\source\repos\ElegantJewels\obj\Debug\net6.0\ElegantJewels.AssemblyInfoInputs.cache
+C:\Users\2270322\source\repos\ElegantJewels\obj\Debug\net6.0\ElegantJewels.AssemblyInfo.cs
+C:\Users\2270322\source\repos\ElegantJewels\obj\Debug\net6.0\ElegantJewels.csproj.CoreCompileInputs.cache
+C:\Users\2270322\source\repos\ElegantJewels\obj\Debug\net6.0\ElegantJewels.dll
+C:\Users\2270322\source\repos\ElegantJewels\obj\Debug\net6.0\refint\ElegantJewels.dll
+C:\Users\2270322\source\repos\ElegantJewels\obj\Debug\net6.0\ElegantJewels.pdb
+C:\Users\2270322\source\repos\ElegantJewels\obj\Debug\net6.0\ElegantJewels.genruntimeconfig.cache
+C:\Users\2270322\source\repos\ElegantJewels\obj\Debug\net6.0\ref\ElegantJewels.dll

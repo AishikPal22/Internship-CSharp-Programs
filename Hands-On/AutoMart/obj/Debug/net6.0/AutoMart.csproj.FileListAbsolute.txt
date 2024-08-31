@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\AutoMart\bin\Debug\net6.0\AutoMart.exe
+D:\Documents\WORK\C#\AutoMart\bin\Debug\net6.0\AutoMart.deps.json
+D:\Documents\WORK\C#\AutoMart\bin\Debug\net6.0\AutoMart.runtimeconfig.json
+D:\Documents\WORK\C#\AutoMart\bin\Debug\net6.0\AutoMart.dll
+D:\Documents\WORK\C#\AutoMart\bin\Debug\net6.0\AutoMart.pdb
+D:\Documents\WORK\C#\AutoMart\obj\Debug\net6.0\AutoMart.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\AutoMart\obj\Debug\net6.0\AutoMart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\AutoMart\obj\Debug\net6.0\AutoMart.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\AutoMart\obj\Debug\net6.0\AutoMart.AssemblyInfo.cs
+D:\Documents\WORK\C#\AutoMart\obj\Debug\net6.0\AutoMart.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\AutoMart\obj\Debug\net6.0\AutoMart.dll
+D:\Documents\WORK\C#\AutoMart\obj\Debug\net6.0\refint\AutoMart.dll
+D:\Documents\WORK\C#\AutoMart\obj\Debug\net6.0\AutoMart.pdb
+D:\Documents\WORK\C#\AutoMart\obj\Debug\net6.0\AutoMart.genruntimeconfig.cache
+D:\Documents\WORK\C#\AutoMart\obj\Debug\net6.0\ref\AutoMart.dll

@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\QualifierQ2\bin\Debug\net6.0\QualifierQ2.exe
+D:\Documents\WORK\C#\QualifierQ2\bin\Debug\net6.0\QualifierQ2.deps.json
+D:\Documents\WORK\C#\QualifierQ2\bin\Debug\net6.0\QualifierQ2.runtimeconfig.json
+D:\Documents\WORK\C#\QualifierQ2\bin\Debug\net6.0\QualifierQ2.dll
+D:\Documents\WORK\C#\QualifierQ2\bin\Debug\net6.0\QualifierQ2.pdb
+D:\Documents\WORK\C#\QualifierQ2\obj\Debug\net6.0\QualifierQ2.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\QualifierQ2\obj\Debug\net6.0\QualifierQ2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\QualifierQ2\obj\Debug\net6.0\QualifierQ2.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\QualifierQ2\obj\Debug\net6.0\QualifierQ2.AssemblyInfo.cs
+D:\Documents\WORK\C#\QualifierQ2\obj\Debug\net6.0\QualifierQ2.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\QualifierQ2\obj\Debug\net6.0\QualifierQ2.dll
+D:\Documents\WORK\C#\QualifierQ2\obj\Debug\net6.0\refint\QualifierQ2.dll
+D:\Documents\WORK\C#\QualifierQ2\obj\Debug\net6.0\QualifierQ2.pdb
+D:\Documents\WORK\C#\QualifierQ2\obj\Debug\net6.0\QualifierQ2.genruntimeconfig.cache
+D:\Documents\WORK\C#\QualifierQ2\obj\Debug\net6.0\ref\QualifierQ2.dll

@@ -1,0 +1,15 @@
+D:\Documents\WORK\C#\HashDemo\bin\Debug\net6.0\HashDemo.exe
+D:\Documents\WORK\C#\HashDemo\bin\Debug\net6.0\HashDemo.deps.json
+D:\Documents\WORK\C#\HashDemo\bin\Debug\net6.0\HashDemo.runtimeconfig.json
+D:\Documents\WORK\C#\HashDemo\bin\Debug\net6.0\HashDemo.dll
+D:\Documents\WORK\C#\HashDemo\bin\Debug\net6.0\HashDemo.pdb
+D:\Documents\WORK\C#\HashDemo\obj\Debug\net6.0\HashDemo.csproj.AssemblyReference.cache
+D:\Documents\WORK\C#\HashDemo\obj\Debug\net6.0\HashDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\WORK\C#\HashDemo\obj\Debug\net6.0\HashDemo.AssemblyInfoInputs.cache
+D:\Documents\WORK\C#\HashDemo\obj\Debug\net6.0\HashDemo.AssemblyInfo.cs
+D:\Documents\WORK\C#\HashDemo\obj\Debug\net6.0\HashDemo.csproj.CoreCompileInputs.cache
+D:\Documents\WORK\C#\HashDemo\obj\Debug\net6.0\HashDemo.dll
+D:\Documents\WORK\C#\HashDemo\obj\Debug\net6.0\refint\HashDemo.dll
+D:\Documents\WORK\C#\HashDemo\obj\Debug\net6.0\HashDemo.pdb
+D:\Documents\WORK\C#\HashDemo\obj\Debug\net6.0\HashDemo.genruntimeconfig.cache
+D:\Documents\WORK\C#\HashDemo\obj\Debug\net6.0\ref\HashDemo.dll
