@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/AcJpr142v5DuVmji+4xtpocnzUSW4SjH3+PGBHJ9CvghX2/vejPPaFFVemQAB007JAMEjzc7vQtvveKMZAlug==",
+  "dgSpecHash": "iGACIiKK+Xg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\2270322\\source\\repos\\MotorsHut\\MotorsHut.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\aishi\\Documents\\My Codes\\Internship-CSharp-Programs\\Mock Qualifier\\MotorsHut\\MotorsHut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aishi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\aishi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\aishi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\aishi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
   "logs": []
 }

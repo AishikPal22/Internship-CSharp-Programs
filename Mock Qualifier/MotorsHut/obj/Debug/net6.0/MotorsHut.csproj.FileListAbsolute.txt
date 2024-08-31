@@ -13,3 +13,18 @@ C:\Users\2270322\source\repos\MotorsHut\obj\Debug\net6.0\refint\MotorsHut.dll
 C:\Users\2270322\source\repos\MotorsHut\obj\Debug\net6.0\MotorsHut.pdb
 C:\Users\2270322\source\repos\MotorsHut\obj\Debug\net6.0\MotorsHut.genruntimeconfig.cache
 C:\Users\2270322\source\repos\MotorsHut\obj\Debug\net6.0\ref\MotorsHut.dll
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\bin\Debug\net6.0\MotorsHut.exe
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\bin\Debug\net6.0\MotorsHut.deps.json
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\bin\Debug\net6.0\MotorsHut.runtimeconfig.json
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\bin\Debug\net6.0\MotorsHut.dll
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\bin\Debug\net6.0\MotorsHut.pdb
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\obj\Debug\net6.0\MotorsHut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\obj\Debug\net6.0\MotorsHut.AssemblyInfoInputs.cache
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\obj\Debug\net6.0\MotorsHut.AssemblyInfo.cs
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\obj\Debug\net6.0\MotorsHut.csproj.CoreCompileInputs.cache
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\obj\Debug\net6.0\MotorsHut.sourcelink.json
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\obj\Debug\net6.0\MotorsHut.dll
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\obj\Debug\net6.0\refint\MotorsHut.dll
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\obj\Debug\net6.0\MotorsHut.pdb
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\obj\Debug\net6.0\MotorsHut.genruntimeconfig.cache
+C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\obj\Debug\net6.0\ref\MotorsHut.dll

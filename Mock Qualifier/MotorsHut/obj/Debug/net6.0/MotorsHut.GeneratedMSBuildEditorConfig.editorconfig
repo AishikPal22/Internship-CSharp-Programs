@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MotorsHut
-build_property.ProjectDir = C:\Users\2270322\source\repos\MotorsHut\
+build_property.ProjectDir = C:\Users\aishi\Documents\My Codes\Internship-CSharp-Programs\Mock Qualifier\MotorsHut\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
